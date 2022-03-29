@@ -25,7 +25,7 @@ ___
 ### About Me
 
 
-I am 22 years old. I am a 3rd year student. I just started learning programming and I love it.
+I am 22 years old. I am a 3rd year student at TUIT. I just started learning programming and I love it.
 
 
 ___
